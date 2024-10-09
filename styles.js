@@ -18,6 +18,8 @@ var styles = [ {
       "shape" : "ellipse",
       "color" : "rgb(51,51,51)",
       "height" : 70.0,
+      "text-max-width" : 100,
+      "text-wrap" : "wrap",
       "background-color" : "rgb(127,205,187)",
       "text-opacity" : 1.0,
       "border-width" : 0.0,
