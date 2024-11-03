@@ -213,13 +213,17 @@ var styles = [ {
   },{
     "selector": "node.highlighted",
     "css" : {
-      "background-opacity" : 1.0
+      "background-opacity" : 1.0,
+      "border-color": 'black',
+      "border-width": 2,
+      "border-opacity":0.6
     }
   },
   {
     "selector": "edge.highlighted",
     "css" : {
-      "opacity" : 1.0
+      "opacity" : 1.0,
+      "width": 8
     }
   }
  ]
